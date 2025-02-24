@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionUniqueNumbers", "Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAverage", "ArrayAverage\ArrayAverage.csproj", "{E5308A9C-079D-4F97-B02E-6F29B2E6126B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverse", "ArrayReverse\ArrayReverse.csproj", "{EAFA82D1-A679-4147-97BA-6FDBDFC3793B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E5308A9C-079D-4F97-B02E-6F29B2E6126B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5308A9C-079D-4F97-B02E-6F29B2E6126B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5308A9C-079D-4F97-B02E-6F29B2E6126B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFA82D1-A679-4147-97BA-6FDBDFC3793B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFA82D1-A679-4147-97BA-6FDBDFC3793B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFA82D1-A679-4147-97BA-6FDBDFC3793B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFA82D1-A679-4147-97BA-6FDBDFC3793B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
