@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMaxValue", "ArrayMaxVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsGrades", "StudentGrades\StudentsGrades.csproj", "{D97CF6B8-35CC-473E-955A-154FD4A5E7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{7B5FCD81-4460-4604-BC79-AB44853D44F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopStudents", "OopStudents\OopStudents.csproj", "{67B4AF5A-2E35-4883-98B2-AAACB74C4C2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{D97CF6B8-35CC-473E-955A-154FD4A5E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D97CF6B8-35CC-473E-955A-154FD4A5E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D97CF6B8-35CC-473E-955A-154FD4A5E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5FCD81-4460-4604-BC79-AB44853D44F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5FCD81-4460-4604-BC79-AB44853D44F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5FCD81-4460-4604-BC79-AB44853D44F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5FCD81-4460-4604-BC79-AB44853D44F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B4AF5A-2E35-4883-98B2-AAACB74C4C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B4AF5A-2E35-4883-98B2-AAACB74C4C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B4AF5A-2E35-4883-98B2-AAACB74C4C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B4AF5A-2E35-4883-98B2-AAACB74C4C2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
