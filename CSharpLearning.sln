@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopStudents", "OopStudents\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopClassCar", "OopClassCar\OopClassCar.csproj", "{E5BE095C-8115-427A-A0BF-DEC629307FAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPerson", "Person\OopPerson.csproj", "{B4ECABD7-EB69-4609-A367-1F240704E912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E5BE095C-8115-427A-A0BF-DEC629307FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5BE095C-8115-427A-A0BF-DEC629307FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5BE095C-8115-427A-A0BF-DEC629307FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4ECABD7-EB69-4609-A367-1F240704E912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ECABD7-EB69-4609-A367-1F240704E912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ECABD7-EB69-4609-A367-1F240704E912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ECABD7-EB69-4609-A367-1F240704E912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
