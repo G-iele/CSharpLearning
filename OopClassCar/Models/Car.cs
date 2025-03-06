@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OopClassCar.Models
 {
-    class Car
+    public class Car
     {
         public string? Brand { get; set; }
         public int? Year { get; set; }
